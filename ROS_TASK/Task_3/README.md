@@ -26,7 +26,8 @@ This is the follow on task of Task-3 which uses two turtles. (Hint : Checkout th
 
 The expected output for Bonus Task 3A is given below 👇 :
 
-( To be uploaded soon )
+![Screencast from 06-17-2025 08-54-54 PM](https://github.com/user-attachments/assets/6b482777-8089-4004-9818-898883f0a67e)
+
 
 ### Task 3B
 Again Using the turtlesim turtle Implement a goal algorithm using p controller and go to the goals to the following coordinates:
